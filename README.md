@@ -9,6 +9,18 @@ With this graduation you can proceed to university and choose any studies you li
 
 This demo XSLT stylesheet shows some important XSLT and XSL-FO features.
 
+Prerequisites
+-------------
+
+* Java Runtime Environment
+* Batch file run tested on Windows 
+
+
+Test-Run
+-------
+
+Execute grades.bat on your Windows command line and investigate output grades.pdf
+
 Have fun :-]
 
 
